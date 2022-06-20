@@ -24,3 +24,5 @@ INSERT INTO BUS VALUES (9, 'James', 'Sulley', 'July 5 2022', 'Boston', 'Providen
 SELECT * FROM BUS;
 SELECT * FROM BUS WHERE departcity = 'Boston';\n
 SELECT * FROM BUS WHERE departcity = 'Providence';
+
+--renamed filed to bus.sql
